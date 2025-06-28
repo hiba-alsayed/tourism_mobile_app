@@ -12,11 +12,7 @@ A tourism application that allows users to browse tourist attractions, choose th
 
 ## 🧠 Architecture
 
-This project follows the **MVC (Model-View-Controller)** architectural pattern:
-lib/
-├── models/ 
-├── views/ 
-├── controllers/
+This project follows the **MVC (Model-View-Controller)** architectural pattern
 
 ## 🛠️ Tech Stack
 
